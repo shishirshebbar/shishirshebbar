@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shishir 👋
 
-<!--
-**shishirshebbar/shishirshebbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with a passion for building dynamic and responsive web applications. I specialize in both front-end and back-end development, leveraging modern frameworks and technologies like **React**, **Next.js**, and **Node.js** to create scalable, user-friendly solutions.
 
-Here are some ideas to get you started:
+Currently, I'm focusing on enhancing my skills in **Web Development**, exploring the world of **Machine Learning** to integrate intelligent systems into applications, and diving into **DevOps** to better understand infrastructure automation and cloud deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong foundation in **software development**, I'm always excited to learn and grow, working on new projects and technologies to solve real-world problems.
+
+---
+
+## 🛠 Skills
+### Languages
+- Python
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- SQL
+
+### Developer Tools
+- Docker
+- Kubernetes
+- VS Code
+- Postman
+- Git
+- GitHub
+- Jupyter Notebook
+
+### Technologies/Frameworks
+- Node.js
+- React.js
+- Next.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Tailwind CSS
+- Selenium
