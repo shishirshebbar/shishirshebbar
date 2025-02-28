@@ -10,10 +10,8 @@ With a strong foundation in **software development**, I'm always excited to lear
 ### Languages
 - Python
 - Java
-- C
 - HTML
 - CSS
-- JavaScript
 - TypeScript
 - SQL
 
