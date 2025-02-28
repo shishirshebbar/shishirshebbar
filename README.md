@@ -12,12 +12,10 @@ With a strong foundation in **software development**, I'm always excited to lear
 - Java
 - HTML
 - CSS
-- TypeScript
+- JavaScript
 - SQL
 
 ### Developer Tools
-- Docker
-- Kubernetes
 - VS Code
 - Postman
 - Git
