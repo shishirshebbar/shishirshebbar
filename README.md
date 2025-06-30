@@ -6,7 +6,7 @@ With a strong foundation in **software development**, I'm always excited to lear
 
 ---
 
-## 🛠 Skills
+##  Skills
 ### Languages
 - Python
 - Java
@@ -21,6 +21,7 @@ With a strong foundation in **software development**, I'm always excited to lear
 - Git
 - GitHub
 - Jupyter Notebook
+- Docker
 
 ### Technologies/Frameworks
 - Node.js
