@@ -1,34 +1,36 @@
-I'm a **Full-Stack Developer** with a passion for building dynamic and responsive web applications. I specialize in both front-end and back-end development, leveraging modern frameworks and technologies like **React**, **Next.js**, and **Node.js** to create scalable, user-friendly solutions.
+I'm a **Full-Stack Developer** with a passion for building dynamic and responsive web applications.  
+I work on both the front-end and back-end, using frameworks and technologies like **React**, **Next.js**, **FastAPI** and **Node.js** to create scalable and user-friendly solutions.
 
-Currently, I'm focusing on enhancing my skills in **Web Development**, exploring the world of **Machine Learning** to integrate intelligent systems into applications, and diving into **DevOps** to better understand infrastructure automation and cloud deployment.
+In my projects and internships, I’ve applied concepts from **AI/ML** and **DevOps** to build efficient and production-ready systems.  
+I have hands-on experience with **distributed caching**, **Redis**, and **Docker-hosted databases**, which help improve performance and scalability in my applications.
 
-With a strong foundation in **software development**, I'm always excited to learn and grow, working on new projects and technologies to solve real-world problems.
+I enjoy learning new technologies, exploring different architectures, and building solutions that solve real-world problems.
 
 ---
 
-##  Skills
+## Skills
+
 ### Languages
-- Python
-- Java
-- HTML
-- CSS
-- JavaScript
-- SQL
+- Python  
+- Java   
+- JavaScript  
+
+
+### Databases
+- PostgreSQL  
+- MongoDB  
+
+### Frameworks & Technologies
+- Next.js
+- FastAPI 
+- React.js  
+- Node.js  
+- Selenium  
+
 
 ### Developer Tools
-- VS Code
-- Postman
-- Git
-- GitHub
-- Jupyter Notebook
-- Docker
-
-### Technologies/Frameworks
-- Node.js
-- React.js
-- Next.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- Tailwind CSS
-- Selenium
+- Git  
+- Docker  
+- Postman  
+- Jupyter Notebook    
+- ServiceNow  
