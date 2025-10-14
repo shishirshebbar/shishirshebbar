@@ -1,36 +1,47 @@
-I'm a **Full-Stack Developer** with a passion for building dynamic and responsive web applications.  
-I work on both the front-end and back-end, using frameworks and technologies like **React**, **Next.js**, **FastAPI** and **Node.js** to create scalable and user-friendly solutions.
+# About Me
 
-In my projects and internships, I’ve applied concepts from **AI/ML** and **DevOps** to build efficient and production-ready systems.  
-I have hands-on experience with **distributed caching**, **Redis**, and **Docker-hosted databases**, which help improve performance and scalability in my applications.
-
-I enjoy learning new technologies, exploring different architectures, and building solutions that solve real-world problems.
+I'm a full stack developer with a focus on building real-time, collaborative, and AI-powered web applications.  
+I enjoy working across the stack—from designing clean, functional frontends to building scalable backend systems.  
+Most of my work revolves around modern web frameworks, distributed caching, and tools that make real-time collaboration possible.
 
 ---
 
-## Skills
+### Technical Skills
 
-### Languages
-- Python  
-- Java   
-- JavaScript  
+**Languages & Databases**  
+Python, JavaScript, PostgreSQL, MongoDB  
 
+**Frameworks & Technologies**  
+Next.js, FastAPI, React.js, Node.js, Redis, Selenium  
 
-### Databases
-- PostgreSQL  
-- MongoDB  
+**Developer Tools**  
+Git, Docker, Postman, ServiceNow  
 
-### Frameworks & Technologies
-- Next.js
-- FastAPI 
-- React.js  
-- Node.js  
-- Selenium  
+**Additional Skills**  
+CRDTs (Automerge), Distributed Caching, KeyDB, WebSockets  
 
+---
 
-### Developer Tools
-- Git  
-- Docker  
-- Postman  
-- Jupyter Notebook    
-- ServiceNow  
+### What I’m Interested In
+- Real-time systems and low-latency communication  
+- Building collaborative platforms and shared-state architectures  
+- AI integration in web applications  
+- Distributed caching and data synchronization  
+
+---
+
+### Currently Learning
+- Server-side concurrency patterns  
+- CRDT optimization for shared editing  
+- Efficient caching and sync layers for real-time apps  
+
+---
+
+### Contact
+- GitHub: [https://github.com/shishirshebbar](https://github.com/shishirshebbar)  
+- LinkedIn: [https://www.linkedin.com/in/shishir-hebbar-6bba57313/](https://www.linkedin.com/in/shishir-hebbar-6bba57313/)  
+- Email: shishirshebbar@gmail.com  
+
+---
+
+_"Building reliable systems that connect people and data in real time."_
