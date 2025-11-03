@@ -9,16 +9,16 @@ Most of my work revolves around modern web frameworks, distributed caching, and 
 ### Technical Skills
 
 **Languages & Databases**  
-Python, JavaScript, PostgreSQL, MongoDB  
+Python, JavaScript, PostgreSQL, MongoDB, Redis
 
 **Frameworks & Technologies**  
-Next.js, FastAPI, React.js, Node.js, Redis, Selenium  
+Next.js, FastAPI, React.js, Node.js, Selenium  
 
 **Developer Tools**  
 Git, Docker, Postman, ServiceNow  
 
 **Additional Skills**  
-CRDTs (Automerge), Distributed Caching, KeyDB, WebSockets  
+CRDTs (Automerge), Distributed Caching, KeyDB, WebSockets, Containerization
 
 ---
 
